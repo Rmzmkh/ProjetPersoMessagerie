@@ -1,0 +1,54 @@
+@import url(https://fonts.googleapis.com/css?family=Open+Sans:300,400);
+
+
+body {
+    margin: 15px 10px;
+    background-image: url('https://cdnb.artstation.com/p/assets/images/images/024/538/827/original/pixel-jeff-clipa-s.gif?1582740711');
+    background-size: cover;
+}
+
+.tout {
+    text-align: center;
+}
+.message {
+    background-color: skyblue;
+    margin-top: 20px;
+    width: 250px;
+    border-radius: 30px;
+    border: solid 1px cyan;
+    color: ghostwhite;
+
+}
+
+.messagerie {
+    margin: 20px; 
+
+}
+
+#pseudo-couleur {
+    color: yellow;
+}
+
+.alert {
+    width: 350px;
+    position: absolute;
+    margin-left: 42%;
+    margin-top: 5%;
+}
+
+.input-group {
+    width: 250px;
+    margin-left: 34%;
+}
+
+.textarea {
+    margin-top: -50px;
+}
+
+.areatext {
+    background-image: url('https://i.pinimg.com/originals/59/69/84/59698460a33a71e42ddf46e185e17737.gif');
+    color: white;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 23px ;
+}
+
